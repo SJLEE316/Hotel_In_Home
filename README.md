@@ -22,3 +22,7 @@
     - cart
     - order
     - thankyou
+
+### ```admin```
+    id : admin
+    pw : djemals1234
